@@ -36,7 +36,7 @@ const UserDataTable = () => {
     ]
     return(
         <div>
-
+firebase init
             <MaterialTable
                 title="User Data Table"
                 data={userData}
